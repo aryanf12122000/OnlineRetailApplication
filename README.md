@@ -1,0 +1,2 @@
+# OnlineRetailApplication
+This is a retail website where users can purchase the daily necessity products example-grocery, fruits, dairy, beverages etc . This website has an user friendly interface where the user can browse through the products and checkout with the required product. So basically the project comes with a website and database which contains all the user info and product info. The front-end of the website was built using HTML, CSS, Javascript, Json, JQuery and the back-end part was developed using PHP.
